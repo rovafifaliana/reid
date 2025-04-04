@@ -1,0 +1,14 @@
+albumentations==1.4.7
+tf-nightly[and-cuda]==2.17.0.dev20240529
+keras==3.3.3
+kornia==0.7.2
+lxml==5.2.2
+matplotlib==3.9.0
+moviepy==1.0.3
+mxnet==1.9.1
+numpy==1.26.4
+scipy==1.13.1
+segmentation_models==1.0.1
+Shapely==2.0.4
+six==1.16.0
+tqdm==4.66.4
